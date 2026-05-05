@@ -64,7 +64,6 @@ right now:
 
 * 🌄 nature > cities
 * 🛕 calm spaces > noise
-* 
 ---
 
 ## ◇ connect
