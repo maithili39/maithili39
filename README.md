@@ -28,9 +28,6 @@ right now:
 
 ---
 
-
----
-
 ## ◇ tools i work with
 
 <div align="center">
@@ -60,8 +57,6 @@ right now:
 * writing cleaner, structured code
 * thinking before implementing
 * completing what i start
-
----
 
 ---
 
