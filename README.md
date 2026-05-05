@@ -1,12 +1,86 @@
+<!-- 🌌 Minimal + Identity + Tech Hybrid README -->
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maithili39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=maithili39&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maithili39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ✧ Maithili Dorkhande
+
+### *quietly building things that matter.*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Building+EcoSort;Always+Learning\&center=true\&width=500\&height=45)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maithili39&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```txt
+status: learning • building • exploring   
+direction: MERN + AI  
+```
+
+---
+
+## ◇ current state
+
+i’m a cs student exploring how technology fits into real life —
+not just how to build it, but why it should exist
+
+right now:
+
+* building full-stack applications
+* improving problem-solving (DSA)
+* working on ideas with real-world impact
+
+---
+
+
+---
+
+## ◇ tools i work with
+
+<div align="center">
+
+<!-- MERN -->
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+
+<br/>
+
+<!-- AI + Programming -->
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,cpp,c&theme=dark" />
+
+<br/>
+
+<!-- Tools -->
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## ◇ in progress
+
+* writing cleaner, structured code
+* thinking before implementing
+* completing what i start
+
+---
+
+---
+
+## ◇ beyond code
+
+* 🌄 nature > cities
+* 🛕 calm spaces > noise
+* 
+---
+
+## ◇ connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/maithili-dorkhande/)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:maithilidorkhande6@gmail.com)
+
+---
+
+<div align="center">
+
+*still learning. still building. still figuring it out.*
+
+</div>
